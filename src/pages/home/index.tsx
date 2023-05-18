@@ -58,8 +58,8 @@ export const Home = (): JSX.Element => {
               projects
             </Text>
             <Text type="body1" color="grey2">
-              Discover here in this environment, created especially for you, all
-              my projects and technologies
+              
+I started programming because I am passionate about the technology field. My inspiration and what influenced me to enter this field for good was my cousin, who is now a graduate in computer science. I really enjoy this field because it constantly challenges you as it is always evolving, which requires you to never be in a comfort zone.
             </Text>
             <HeaderButtonsArea>
               <Button as="a" type="primary" href="#projects">
